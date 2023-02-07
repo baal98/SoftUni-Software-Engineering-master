@@ -30,16 +30,8 @@ The course covers source control systems, **Git** and **GitHub** for team collab
 
 ## Old exams.
 
-- <a href="https://github.com/stefkavasileva/SoftUni-Software-Engineering/tree/master/Programmin%20Fundamentals/OldExams/RetakeExam-6January2017"> Retake Exam - 6 January 2017 </a>
-- <a href="https://github.com/stefkavasileva/SoftUni-Software-Engineering/tree/master/Programmin%20Fundamentals/OldExams/Exam-23October2016"> Programming Fundamentals Exam - 23 October 2016 </a>
-- <a href="https://github.com/stefkavasileva/SoftUni-Software-Engineering/tree/master/Programmin%20Fundamentals/OldExams/SampleExamII-October2016"> Programming Fundamentals Sample Exam II - October 2016 <a/>
-- <a href="https://github.com/stefkavasileva/SoftUni-Software-Engineering/tree/master/Programmin%20Fundamentals/OldExams/ExamI-October2016">Programming Fundamentals Sample Exam I - October 2016 </a>
-- <a href="https://github.com/stefkavasileva/SoftUni-Software-Engineering/tree/master/Programmin%20Fundamentals/OldExams/RetakeExam-11September2016">Programming Fundamentals Retake Exam - 11 September 2016 </a>
-- <a href="https://github.com/stefkavasileva/SoftUni-Software-Engineering/tree/master/Programmin%20Fundamentals/OldExams/Exam-12June2016"> Programming Fundamentals Exam - 12 June 2016 </a>
-- <a href="https://github.com/stefkavasileva/SoftUni-Software-Engineering/tree/master/Programmin%20Fundamentals/OldExams/SampleExamII-June2016"> Programming Fundamentals Sample Exam II - June 2016</a>
-- <a href="https://github.com/stefkavasileva/SoftUni-Software-Engineering/tree/master/Programmin%20Fundamentals/OldExams/SampleExamI-June2016"> Programming Fundamentals Sample Exam I - June 2016</a>
-- <a href="https://github.com/stefkavasileva/SoftUni-Software-Engineering/tree/master/Programmin%20Fundamentals/OldExams/(Old)Exam-April2016" > (Old) Programming Fund(Old) Progr. Fundamentals Sample Exam - April 2016 </a> 
-- <a href="https://github.com/stefkavasileva/SoftUni-Software-Engineering/tree/master/Programmin%20Fundamentals/OldExams/(Old)Exam-24April2016" > (Old) Programming Fundamentals Exam - 24 April 2016 </a> 
+- <a href="https://github.com/baal98/SoftUni-Software-Engineering-master/tree/master/SoftUni-Software-Engineering-master/Programmin%20Fundamentals/OldExams"> Old Exams </a>
+- <a href="https://github.com/baal98/SoftUni-Software-Engineering-master/tree/master/SoftUni-Software-Engineering-master/Programmin%20Fundamentals/Progr.Fund%20%20Extended"> Old Programming Fundamentals </a>
 
 
 

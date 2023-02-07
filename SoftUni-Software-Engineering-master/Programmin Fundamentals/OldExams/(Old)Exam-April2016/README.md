@@ -153,7 +153,7 @@ o	On the second line you need to print the total amount of vehicles sold in the 
 
 Bojo is a bad photo editor, but he wants to do some amazing pictures for his Facebook page. He can’t do it alone, so he needs your help. For each picture you will be given a **matrix** with pixels. Each pixel has **weight**. The **blur filter** is applied to a certain cell (pixel) and **all cells around it**. The **blur has amount**, which needs to be **added to the weight of the pixel** that it blurs. Print the matrix after the blur applied as output.
 
-![Not fount](/Programmin%20Fundamentals/OldExams/images/exam1.PNG)
+![Not fount](/SoftUni-Software-Engineering-master/Programmin%20Fundamentals/OldExams/images/exam1.PNG)
 
 #### Input
 

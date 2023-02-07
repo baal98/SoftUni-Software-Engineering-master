@@ -82,8 +82,8 @@ If the room is not square and there is an empty space on the robot's path, he wi
 If a robot reaches the exit, print "Experiment successful. {turn count} jumps required." 
 If the robot can't find the exit print " Robot stuck at {row} {column}. Experiment failed."
 
-![Not fount](/Programmin%20Fundamentals/OldExams/images/exam4.PNG)
-![Not fount](/Programmin%20Fundamentals/OldExams/images/exam5.PNG)
+![Not fount](/SoftUni-Software-Engineering-master/Programmin%20Fundamentals/OldExams/images/exam4.PNG)
+![Not fount](/SoftUni-Software-Engineering-master/Programmin%20Fundamentals/OldExams/images/exam5.PNG)
 
 #### Input / Constrains
 

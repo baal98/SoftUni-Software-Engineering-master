@@ -37,7 +37,7 @@ Write a program to read an array of **n integers** (space separated on a single 
 ## 03.Fold and Sum 
 Read an array of **4*k** integers, fold it, and print the sum of the upper and lower two rows (each holding **2 * k** integers).
 
-![Not fount](/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/foldarr.png)
+![Not fount](/SoftUni-Software-Engineering-master/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/foldarr.png)
 
 # Examples 
 

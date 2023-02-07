@@ -114,7 +114,7 @@ Books in the input will be in format **{title} {author} {publisher} {release dat
 
 > #### Hints
 > - Create classes **Book** and **Library** with all the mentioned above properties. 
-![Not fount](/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/files1.png)
+![Not fount](/SoftUni-Software-Engineering-master/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/files1.png)
 > - **Create** an object of type **Library**.
 > - **Read the input** and create a **Book** object for each book in the input.
 > - Create a **LINQ** query that will **sum the prices by author, order the results** as requested.

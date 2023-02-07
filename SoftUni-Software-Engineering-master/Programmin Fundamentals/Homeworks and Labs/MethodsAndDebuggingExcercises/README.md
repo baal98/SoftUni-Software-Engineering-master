@@ -174,16 +174,16 @@ Write a program that calculates and prints the **n!** for any n in the range [1�
 > Use the class BigInteger from the built-in .NET library System.Numerics.dll.
 > 1.	First add reference to System.Numerics.dll.
 
-![Not fount](/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/methods22.png)
-![Not fount](/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/methods23.png)
+![Not fount](/SoftUni-Software-Engineering-master/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/methods22.png)
+![Not fount](/SoftUni-Software-Engineering-master/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/methods23.png)
 
 > 2.	Import the namespace “System.Numerics”:
 
-![Not fount](/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/methods24.png)
+![Not fount](/SoftUni-Software-Engineering-master/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/methods24.png)
 
 >3.	Use the type BigInteger instead of long or decimal to keep the factorial value:
 
-![Not fount](/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/methods25.png)
+![Not fount](/SoftUni-Software-Engineering-master/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/methods25.png)
 
 ## 14.Factorial Trailing Zeroes
 Create a program that counts the trailing zeroes of the factorial of a given number.

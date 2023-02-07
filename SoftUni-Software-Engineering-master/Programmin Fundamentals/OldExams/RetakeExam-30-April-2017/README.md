@@ -1,8 +1,8 @@
 # <p align="center">  Programming Fundamentals (Extended) Exam - 30 April 2017  <p>
 
-# Problem 1 – Wormtest
+# Problem 1 ï¿½ Wormtest
 
-The worms are having a contest – a Wormtest. In the Wormtest, every worm is given wormpoints depending on several statistics. Guess who&#39;s going to calculate those statistics... Yup, that&#39;s you!
+The worms are having a contest ï¿½ a Wormtest. In the Wormtest, every worm is given wormpoints depending on several statistics. Guess who&#39;s going to calculate those statistics... Yup, that&#39;s you!
 
 You will be given input data about a single wormtestant. You must calculate his wormpoints, depending on the given data.
 
@@ -41,7 +41,7 @@ Print it **rounded** to the **second** **digit **after the** decimal point**.
 | 1000 <br/> 200 | 20000000.00 | **length = 1000m. width = 200cm.** 1000m \* 100 = 100000cm **.** 100000 % 200 = 0 **. The** remainder **is** zero **. So we print the** product **of the two numbers,** rounded **to** the second digit **after the** decimal point. |
 | 40 <br/> 600 | 666.67% | **40m \* 100 = 4000cm.** 4000 % 600 = 400 **. The** remainder **is** 400 **. So we print how much** percent **the** length **is of the** width **,** rounded **to** the second digit **after the** decimal point **.** 4000 **is** 666.67 percent **of** 600. |
 
-# Problem 2 – Worm Ipsum
+# Problem 2 ï¿½ Worm Ipsum
 
 Dr. Worm has decided to create an AI which generates random sentences. However, in the worm language, there are no words which have 2 equal characters. The Doctor does not know how to program the AI to follow these rules so he asks you for help.
 
@@ -79,17 +79,17 @@ The input **ends** when you **receive** the **command**&quot; **Worm Ipsum**&quo
 | This is a random sentence. <br/> This is another random sentence. <br/> You have downloaded data. <br/> Worm Ipsum | This is a random eeeeeeee. <br/> This is another random eeeeeeee. <br/> You have dddddddddd aaaa.  |
 | Hello World. <br/> How are you. <br/> What are you doing. What will you do. <br/> Will you come. <br/> Worm Ipsum | lllll World. <br/> How are you. <br/> llll you come. |
 
-# Problem 3 – Wormhole
+# Problem 3 ï¿½ Wormhole
 
 Dr. Worm has advanced technologically to level where he can travel through wormholes. Wormholes are holes in reality, which allow you to travel to other dimensions. Dr. Worm however, does not know anything about the wormholes, so he just enters random holes in hopes of getting to his target point.
 
-You will be given a **sequence** of **integers** – the **wormholes** , on a **single input line** , **separated** by a **space**. The **integers** will either be **zeros** ( **0** ) or some **other integers**.
+You will be given a **sequence** of **integers** ï¿½ the **wormholes** , on a **single input line** , **separated** by a **space**. The **integers** will either be **zeros** ( **0** ) or some **other integers**.
 
 You must start from the first one and reach the last one.
 
 If the **integer** you are **currently at** is a **zero** , you must **continue forward** to the **next element** of the sequence.
 
-If the **integer** you are **currently at** is **NOT** **zero**, it is a wormhole **. You must** go **to the** element **which is** at index **– thewormhole&#39;s** value.
+If the **integer** you are **currently at** is **NOT** **zero**, it is a wormhole **. You must** go **to the** element **which is** at index **ï¿½ thewormhole&#39;s** value.
 
 **Every time** you **step** on a **wormhole** , you must **set** its **value** to **0**.
 
@@ -100,7 +100,7 @@ The wormhole&#39;s **teleportation** to the **target** index **does NOT count** 
 **Example** : If we have the input &quot; **0 0 0 2 0 0 5**&quot; . . . the **steps** would look like this:
 
 
-![Not fount](/Programmin%20Fundamentals/OldExams/images/exam29.PNG)
+![Not fount](/SoftUni-Software-Engineering-master/Programmin%20Fundamentals/OldExams/images/exam29.PNG)
 
 ### Input
 
@@ -125,7 +125,7 @@ The wormhole&#39;s **teleportation** to the **target** index **does NOT count** 
 |---|---|
 | 0 0 1 0 2 0 4 0 | 13 |
 
-# Problem 4 – Worms World Party
+# Problem 4 ï¿½ Worms World Party
 
 Worms World Party is a game where teams of worms fight each other with various weapons. Your task is to register the teams and the participants with their score, and sort out the teams by the total amount of their score.
 
@@ -152,12 +152,12 @@ The teams must be **ordered** **by total score **of their worms, in** descending
 
 - As output you must print all the teams and their worms in the following order: <br/>
 
-**1. Team: \{team1Name}**  **– \{totalScore}** <br/>
+**1. Team: \{team1Name}**  **ï¿½ \{totalScore}** <br/>
 **###\{worm1Name} : \{worm1Score}** <br/>
 **###\{worm2Name} : \{worm2Score}** <br/>
 **. . .**
 
-**2. Team: \{team2Name} – \{totalScore}** <br/>
+**2. Team: \{team2Name} ï¿½ \{totalScore}** <br/>
  **. . .** &quot;
 
 ### Constrains

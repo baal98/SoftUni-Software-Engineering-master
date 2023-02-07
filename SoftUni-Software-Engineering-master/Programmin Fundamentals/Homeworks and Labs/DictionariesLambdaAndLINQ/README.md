@@ -85,7 +85,7 @@ Read a **text**, extract its **words**, find all **short words** (less than 5 ch
 ## 06.Fold and Sum
 Read an array of **4*k integers, fold** it like shown below, and **print the sum** of the upper and lower rows (**2*k integers**).
 
-![Not fount](/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/dicAndLINQ1.png)
+![Not fount](/SoftUni-Software-Engineering-master/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/dicAndLINQ1.png)
 
 #### Examples
 

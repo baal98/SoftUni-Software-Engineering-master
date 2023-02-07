@@ -116,7 +116,7 @@ There are different **obstacles** on his way.
 - **Trap (T)** – the hero must wait **2 turns** (the quest will finish 2 turns later)
 - **Empty cell (E)** – nothing happens here just game **advances with 1 turn**.
 
-![Not fount](/Programmin%20Fundamentals/OldExams/images/exam2.PNG)
+![Not fount](/SoftUni-Software-Engineering-master/Programmin%20Fundamentals/OldExams/images/exam2.PNG)
 
 * NOTE: The **division of the turns** must be **integer division. For example:** 5 / 2 = 2.
 The hero **always starts** his journey in the **top left corner** (the cell with coordinates [0,0]). 

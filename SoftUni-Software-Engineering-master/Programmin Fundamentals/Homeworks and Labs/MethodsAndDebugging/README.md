@@ -29,17 +29,17 @@ And the text for the footer:
 > #### Hints
 > 1.	First create a method with no parameters for printing the header starting with static void. Give it a meaningful name like "PrintReceiptHeader" and write the code that it will execute:
 
-![Not fount](/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/methods1.png)
+![Not fount](/SoftUni-Software-Engineering-master/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/methods1.png)
 
 > 2.	Do the same for printing the receipt body and footer.
 > 3.	Create a method that will call all three methods in the necessary order. Again, give it a meaningful and descriptive name like "PrintReceipt" and write the code:
 
-![Not fount](/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/methods2.png)
+![Not fount](/SoftUni-Software-Engineering-master/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/methods2.png)
 
 > 4.	For printing "©" use Unicode "\u00A9"
 > 5.	Call (invoke) the PrintReceipt method from the main.
 
-![Not fount](/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/methods3.png)
+![Not fount](/SoftUni-Software-Engineering-master/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/methods3.png)
 
 ## 02.	Sign of Integer Number
 Create a method that prints the sign of an integer number n.
@@ -55,7 +55,7 @@ Create a method that prints the sign of an integer number n.
 > #### Hints
 > 1.	Create a method with a descriptive name like "PrintSign" which should receive one parameter of type int.
 
-![Not fount](/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/methods4.png)
+![Not fount](/SoftUni-Software-Engineering-master/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/methods4.png)
 
 > 2.	Implement the body of the method by handling different cases: 
 > a.	If the number is greater than zero
@@ -63,7 +63,7 @@ Create a method that prints the sign of an integer number n.
 > c.	And if the number is equal to zero
 > 3.	Call (invoke) the newly created method from the main. 
 
-![Not fount](/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/methods5.png)
+![Not fount](/SoftUni-Software-Engineering-master/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/methods5.png)
 
 ## 03.Printing Triangle
 Create a method for printing triangles as shown below: n=3
@@ -79,21 +79,21 @@ Create a method for printing triangles as shown below: n=3
 > 1.	After you read the input
 > 2.	Start by creating a method for printing a single line from a given start to a given end. Choose a meaningful name for it, describing its purpose:
 
-![Not fount](/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/methods6.png)
+![Not fount](/SoftUni-Software-Engineering-master/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/methods6.png)
 
 > 3.	Think how you can use it to solve the problem
 > 4.	After you spent some time thinking, you should have come to the conclusion that you will need two loops
 > 5.	In the first loop you can print the first half of the triangle without the middle line:
 
-![Not fount](/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/methods7.png)
+![Not fount](/SoftUni-Software-Engineering-master/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/methods7.png)
 
 > 6.	Next, print the middle line:
 
-![Not fount](/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/methods8.png)
+![Not fount](/SoftUni-Software-Engineering-master/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/methods8.png)
 
 > 7.	Lastly, print the rest of the triangle:
 
-![Not fount](/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/methods9.png)
+![Not fount](/SoftUni-Software-Engineering-master/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/methods9.png)
 
 ## 04.Draw a Filled Square
 Draw at the console a filled square of size n like in the example: n=4
@@ -110,15 +110,15 @@ Draw at the console a filled square of size n like in the example: n=4
 > 2.	Create a method which will print the top and the bottom rows (they are the same). Don’t forget to give it a descriptive name and to give it as a parameter some length
 > a.	Instead of loop you can use the "new string" command which creates a new string consisting of a character repeated some given times:
 
-![Not fount](/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/methods10.png)
+![Not fount](/SoftUni-Software-Engineering-master/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/methods10.png)
 
 > 3.	Create the method which will print the middle rows. Well, of course, you should probably name it "PrintMiddleRow" 
 
-![Not fount](/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/methods11.png)
+![Not fount](/SoftUni-Software-Engineering-master/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/methods11.png)
 
 > 4.	Use the methods that you've just created to draw a square
 
-![Not fount](/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/methods12.png)
+![Not fount](/SoftUni-Software-Engineering-master/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/methods12.png)
 
 ## 05.Calculate Triangle Area
 Create a method that calculates and returns the area of a triangle by given base and height
@@ -133,7 +133,7 @@ Create a method that calculates and returns the area of a triangle by given base
 > 1.	After reading the input
 > 2.	Create a method, but this time instead of typing "static void" before its name, type "static double" as this will make it to return a value of type double:
 
-![Not fount](/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/methods13.png)
+![Not fount](/SoftUni-Software-Engineering-master/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/methods13.png)
 
 > 3.	Invoke the method in the main and save the return value in a new variable:
 
@@ -153,7 +153,7 @@ Create a method that calculates and returns the value of a number raised to a gi
 > 1.	As usual, read the input
 > 2.	Create a method which will have two parameters - the number and the power, and will return a result of type double:
 
-![Not fount](/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/methods15.png)
+![Not fount](/SoftUni-Software-Engineering-master/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/methods15.png)
 
 > 3.	Print the result
 
@@ -172,20 +172,20 @@ You are given two values of the same type as input. The values can be of type in
 > 1.	For this method you need to create three methods with the same name and different signatures
 > 2.	Create a method which will compare integers:
 
-![Not fount](/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/methods16.png)
+![Not fount](/SoftUni-Software-Engineering-master/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/methods16.png)
 
 > 3.	Create a second method with the same name which will compare characters. Follow the logic of the previous method:
 
-![Not fount](/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/methods17.png)
+![Not fount](/SoftUni-Software-Engineering-master/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/methods17.png)
 
 > 4.	Lastly you need to create a method to compare strings. This is a bit different as strings don't allow to be compared with the operators > and < 
  
-![Not fount](/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/methods18.png)
+![Not fount](/SoftUni-Software-Engineering-master/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/methods18.png)
 
 > You need to use the method "CompareTo()", which returns an integer value (greater than zero if the compared object is greater, less than zero if the compared object is lesser and zero if the two objects are equal.
 > 5.	The last step is to read the input, use appropriate variables and call the GetMax() from your Main(): 
  
-![Not fount](/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/methods19.png)
+![Not fount](/SoftUni-Software-Engineering-master/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/methods19.png)
 
 ## 08.Multiply Evens by Odds
 Create a program that reads an integer number and multiplies the sum of all its even digits by the sum of all its odd digits.
@@ -200,12 +200,12 @@ Create a program that reads an integer number and multiplies the sum of all its 
 > Hints
 > 1.	Create a method with a name describing its purpose (like GetMultipleOfEvensAndOdds). The method should have a single integer parameter and an integer return value. Also the method will call two other methods:
 
-![Not fount](/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/methods20.png)
+![Not fount](/SoftUni-Software-Engineering-master/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/methods20.png)
 
 > 2.	Create two other methods each of which will sum either even or odd digits
 > 3.	Implement the logic for summing odd digits:
 
-![Not fount](/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/methods21.png)
+![Not fount](/SoftUni-Software-Engineering-master/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/methods21.png)
 
 > 4.	Do the same for the method that will sum even digits
 > 5.	As you test your solution you may notice that it doesn't work for negative numbers. Following the program execution line by line, find and fix the bug (hint: you can use Math.Abs())

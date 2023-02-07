@@ -62,9 +62,9 @@ The input lines will be in format: **{X} {Y} {Radius}**. Print as output **“Ye
 
 | **Input**| **Output**|**Visualization**|
 |---|---|---|
-|4 4 2 <br/> 8 8 1	|No|![Not fount](/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/obj1.png)|
-|3 3 2 <br/> 4 3 6	|Yes|![Not fount](/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/obj2.png)|
-|1 1 4 <br/> 4 2 5	|Yes|![Not fount](/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/obj3.png)|
+|4 4 2 <br/> 8 8 1	|No|![Not fount](/SoftUni-Software-Engineering-master/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/obj1.png)|
+|3 3 2 <br/> 4 3 6	|Yes|![Not fount](/SoftUni-Software-Engineering-master/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/obj2.png)|
+|1 1 4 <br/> 4 2 5	|Yes|![Not fount](/SoftUni-Software-Engineering-master/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/obj3.png)|
 
 > #### Hints
 > - Calculate **d = distance between the circle centers**.
@@ -101,7 +101,7 @@ Books in the input will be in format **{title} {author} {publisher} {release dat
 > #### Hints
 > - Create classes **Book** and **Library** with all the mentioned above properties: 
 
-![Not fount](/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/obj4.png)
+![Not fount](/SoftUni-Software-Engineering-master/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/obj4.png)
 
 > - **Create** an object of type **Library**.
 > - **Read the input** and create a **Book** object for each book in the input.
@@ -142,7 +142,7 @@ First you will receive an integer - the **amount** of entities with prices (sepa
 > - Save all customers that their wanted item is **actually in the shop** into a **list**. For every customer go through his “shop list” and **add “price*quantity”** to his Bill.
 > - For printing every customer you can iterate through every object.
 
-![Not fount](/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/obj5.png)
+![Not fount](/SoftUni-Software-Engineering-master/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/obj5.png)
 
 > - **Print** result.
 
@@ -218,27 +218,27 @@ Your task is to **create** and **print the study groups** for each town as follo
 - **Town2 => email1, email2, …**
 - **…**
 
-![Not fount](/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/obj6.png)
-![Not fount](/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/obj7.png)
-![Not fount](/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/obj8.png)
+![Not fount](/SoftUni-Software-Engineering-master/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/obj6.png)
+![Not fount](/SoftUni-Software-Engineering-master/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/obj7.png)
+![Not fount](/SoftUni-Software-Engineering-master/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/obj8.png)
 
 ##### Hints
 > The class Student will hold the information about a student: name, email and date of registration.
 
-![Not fount](/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/obj9.png)
+![Not fount](/SoftUni-Software-Engineering-master/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/obj9.png)
 
 > The class Town will hold the information about a town holding a list of registered students.
 
-![Not fount](/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/obj10.png)
+![Not fount](/SoftUni-Software-Engineering-master/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/obj10.png)
 
 > The class Groups will hold the information about a group holding a subset of the students for certain town.
 
-![Not fount](/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/obj11.png)
+![Not fount](/SoftUni-Software-Engineering-master/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/obj11.png)
 
 > Read the Input
 > The next step is to read and parse the input to list of towns, each holding a list of students. Write a method to read the input from the console:
 
-![Not fount](/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/obj12.png)
+![Not fount](/SoftUni-Software-Engineering-master/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/obj12.png)
 
 > In a loop, read a text line inputLine from the console, until “End” is reached.
 > For each input line check whether the input line contains “=>”.
@@ -257,7 +257,7 @@ Your task is to **create** and **print the study groups** for each town as follo
 > Now, solve the essential part of the problem: for each town, create one or several groups and distribute the students between them.
 > Start from an empty method that takes as input a list of towns and produces as output a list of groups:
 
-![Not fount](/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/obj13.png)
+![Not fount](/SoftUni-Software-Engineering-master/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/obj13.png)
 
 > How to distribute the students?
 > In a loop go through the towns, sorted by name.
@@ -265,7 +265,7 @@ Your task is to **create** and **print the study groups** for each town as follo
 > - For each town put the first Town.SeatsCount students in the first group, the next Town.SeatsCount students in the second group, etc.
 > You may use code like this or write it yourself:
 
-![Not fount](/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/obj14.png)
+![Not fount](/SoftUni-Software-Engineering-master/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/obj14.png)
 
 > Print the Groups
 > Once the students are distributed into groups, printing the output is the easiest part of this problem.

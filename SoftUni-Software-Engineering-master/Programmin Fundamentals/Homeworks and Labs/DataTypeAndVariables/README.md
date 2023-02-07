@@ -20,7 +20,7 @@ Write program to enter an integer number of **centuries** and convert it to **ye
 #### Solution
 You might help yourself with the code below:
 
-![Not fount](/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/dataType1.png)
+![Not fount](/SoftUni-Software-Engineering-master/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/dataType1.png)
 
 ## 02. **Circle Area (12 Digits Precision)**
 
@@ -38,7 +38,7 @@ Write program to enter a radius r (real number) and **print the area** of the ci
 > #### Hints
 > - You might use the data type double. It has precision of 15-16 digits.
 
-![Not fount](/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/dataType2.png)
+![Not fount](/SoftUni-Software-Engineering-master/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/dataType2.png)
 
 ## 03.Exact Sum of Real Numbers
 
@@ -78,7 +78,7 @@ Calculate how many courses will be needed to **elevate n persons** by using an e
 > - Another approach is to round up **n / p** to the nearest integer (ceiling), e.g. 17/3 = 5.67  rounds up to 6.
 > - Sample code for the round-up calculation:
 
-![Not fount](/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/dataType3.png)
+![Not fount](/SoftUni-Software-Engineering-master/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/dataType3.png)
 
 ## 05.Special Numbers
 #### Problem Description
@@ -109,7 +109,7 @@ Write a program to read an integer **n** and print all **triples** of the first 
 #### Hints
 - Perform 3 nested loops from **0** to **n-1**. For each number num print its corresponding Latin letter as follows.
 
-![Not fount](/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/dataType4.png)
+![Not fount](/SoftUni-Software-Engineering-master/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/dataType4.png)
 
 ## 07.Greeting
 
@@ -127,5 +127,5 @@ Write a program that enters **first name, last name** and **age** and prints "He
 
 > - You might use the following code:
 
-![Not fount](/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/dataType5.png)
+![Not fount](/SoftUni-Software-Engineering-master/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/dataType5.png)
 

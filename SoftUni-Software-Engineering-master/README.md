@@ -2,7 +2,7 @@
 
 <a href="https://softuni.bg/trainings/courses" rel="Courses">  ![SoftUni logo][logo] <a/>
 
-[logo]: (/SoftUni-Software-Engineering-master/Logo_SoftUni.png) "Logo Title Text 2"
+[logo]: (/Logo_SoftUni.png) "Logo Title Text 2"
 
 <br/>
 <br/>

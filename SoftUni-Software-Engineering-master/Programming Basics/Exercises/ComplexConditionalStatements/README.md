@@ -9,7 +9,7 @@
 1. Стартирайте **Visual Studio**.
 2. Създайте нов **Blank Solution** : [File] [New] [Project].
 
-![Not fount](/Programming%20Basics/Exercises/images/4.PNG)
+![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/4.PNG)
  
 3. Изберете от диалоговия прозорец [Templates] [Other Project Types] [Visual Studio Solutions] [**Blank Solution**]и дайте подходящо име на проекта, например &quot; **Complex-Conditions**&quot;:
 
@@ -17,7 +17,7 @@
  
 Сега имате създаден **празен**  **Visual Studio Solution** (без проекти в него):
 
-![Not fount](/Programming%20Basics/Exercises/images/6.PNG)
+![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/6.PNG)
 
 Целта на този **blank solution** e да съдържа **по един проект за**** всяка задача** от упражненията.
 
@@ -39,25 +39,25 @@
 
 1. Създайте **нов проект** в съществуващото Visual Studio решение. В Solution Explorer кликнете с десен бутон на мишката върху **Solution** реда и изберете [Add] [New Project…]:
 
-![Not fount](/Programming%20Basics/Exercises/images/7.PNG)
+![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/7.PNG)
  
 2. Ще се отвори диалогов прозорец за избор на тип проект за създаване. Изберете **C#** **конзолно приложение** и задайте подходящо име, например &quot; **Personal-Titles**&quot;:
 
-![Not fount](/Programming%20Basics/Exercises/images/8.PNG)
+![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/8.PNG)
  
 Вече имате solution с едно конзолно приложение в него. Остава да напишете кода за решаване на задачата.
 
 3. Отидете в тялото на метода **Main(string[]args)** и напишете решението на задачата. Можете да си помогнете с кода от картинката по-долу:
 
-![Not fount](/Programming%20Basics/Exercises/images/9.PNG)
+![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/9.PNG)
 
 4. **Стартирайте** програмата с [Ctrl+F5] и я **тествайте** с различни входни стойности:
 
-![Not fount](/Programming%20Basics/Exercises/images/10.PNG)
+![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/10.PNG)
  
 5. **Тествайте** решението си в **judge**  **системата** : [https://judge.softuni.bg/Contests/Practice/Index/153#0](https://judge.softuni.bg/Contests/Practice/Index/153#0). Трябва да получите **100 точки** (напълно коректно решение):
 
-![Not fount](/Programming%20Basics/Exercises/images/11.PNG)
+![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/11.PNG)
  
 ## 2.Квартално магазинче
 
@@ -81,29 +81,29 @@
 
 1. Създайте **нов проект** в съществуващото Visual Studio решение. В Solution Explorer кликнете с десен бутон на мишката върху **Solution** реда и изберете [Add] [New Project…]:
 
-![Not fount](/Programming%20Basics/Exercises/images/7.PNG)
+![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/7.PNG)
  
 2. Ще се отвори диалогов прозорец за избор на тип проект за създаване. Изберете **C#**** конзолно приложение **и задайте подходящо име, например &quot; **Small-Shop** &quot;:
 
-![Not fount](/Programming%20Basics/Exercises/images/12.PNG)
+![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/12.PNG)
 
 Вече имате ново конзолно приложение и остава да напишете кода за решаване на задачата.
 
 3. Отидете в тялото на метода **Main(string[]args)** и напишете решението на задачата. Можете да си помогнете с кода от картинката по-долу. Можете да прехвърлите всички букви в долен регистър с **.ToLower()** за да сравнявате продукти и градове без значение на малки / главни букви:
 
-![Not fount](/Programming%20Basics/Exercises/images/13.PNG)
+![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/13.PNG)
 
 4. За **да активирате текущия проект** да стартира при [Ctrl+F5], избере &quot; **Set StartUp Projects…** &quot;:
 
-![Not fount](/Programming%20Basics/Exercises/images/14.PNG)
+![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/14.PNG)
 
 Изберете първата опция:
 
-![Not fount](/Programming%20Basics/Exercises/images/15.PNG)
+![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/15.PNG)
 
 5. **Стартирайте** програмата с [Ctrl+F5] и я **тествайте** с различни входни стойности:
 
-![Not fount](/Programming%20Basics/Exercises/images/16.PNG)
+![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/16.PNG)
  
 6. **Тествайте** решението си в **judge**  **системата** : [https://judge.softuni.bg/Contests/Practice/Index/153#1](https://judge.softuni.bg/Contests/Practice/Index/153#1).
 
@@ -113,13 +113,13 @@
 
 | **вход** | **изход** | **визуализация** |  
 | --- | --- | --- | 
-| 2 <br/> -3 <br/> 12 <br/> 3 <br/> 8 <br/> -1  | Inside |![Not fount](/Programming%20Basics/Exercises/images/17.PNG)|
-| 2 <br/> -3 <br/> 12 <br/> 3 <br/> 11 <br/> -3.5  | Outside |![Not fount](/Programming%20Basics/Exercises/images/18.PNG)|
+| 2 <br/> -3 <br/> 12 <br/> 3 <br/> 8 <br/> -1  | Inside |![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/17.PNG)|
+| 2 <br/> -3 <br/> 12 <br/> 3 <br/> 11 <br/> -3.5  | Outside |![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/18.PNG)|
  
 | **вход** | **изход** | **визуализация** | 
 | --- | --- | --- | 
-| -1 <br/> -3 <br/> 4 <br/> 1 <br/> 0.5 <br/> 1 | Inside |![Not fount](/Programming%20Basics/Exercises/images/19.PNG)|
-| -1 <br/> -3 <br/> 4 <br/> 1 <br/> -1.2 <br/> 1.4 | Outside |![Not fount](/Programming%20Basics/Exercises/images/20.PNG)|
+| -1 <br/> -3 <br/> 4 <br/> 1 <br/> 0.5 <br/> 1 | Inside |![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/19.PNG)|
+| -1 <br/> -3 <br/> 4 <br/> 1 <br/> -1.2 <br/> 1.4 | Outside |![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/20.PNG)|
 
 **Тествайте** решението си в **judge**  **системата** : [https://judge.softuni.bg/Contests/Practice/Index/153#2](https://judge.softuni.bg/Contests/Practice/Index/153#2).
 
@@ -171,8 +171,8 @@
 
 | **вход** | **изход** | **визуализация** |   
 | --- | --- | --- | 
-| 2 <br/> -3 <br/> 12 <br/> 3 <br/> 8 <br/> -1  | Inside / Outside |![Not fount](/Programming%20Basics/Exercises/images/21.PNG)|
-| 2 <br/> -3 <br/> 12 <br/> 3 <br/> 12 <br/> -1  | Border |![Not fount](/Programming%20Basics/Exercises/images/22.PNG)|
+| 2 <br/> -3 <br/> 12 <br/> 3 <br/> 8 <br/> -1  | Inside / Outside |![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/21.PNG)|
+| 2 <br/> -3 <br/> 12 <br/> 3 <br/> 12 <br/> -1  | Border |![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/22.PNG)|
 
 **Тествайте** решението си в **judge**  **системата** : [https://judge.softuni.bg/Contests/Practice/Index/153#5](https://judge.softuni.bg/Contests/Practice/Index/153#5).
 
@@ -212,19 +212,19 @@
 >  \* **Подсказки** :
 >  - Прочетете входа и обърнете името на плода и деня от седмицата в **малки букви** :
 > 
-> ![Not fount](/Programming%20Basics/Exercises/images/23.PNG)
+> ![Not fount](/SoftUni-Software-Engineering-masterProgramming%20Basics/Exercises/images/23.PNG)
 > 
 > - Първоначално задайте цена **-1** :
 > 
-> ![Not fount](/Programming%20Basics/Exercises/images/24.PNG)
+> ![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/24.PNG)
 > 
 > - Използвайте вложени **if** проверки, за да изчислите ценатаза дадения плод и ден от седмицата:
 > 
-> ![Not fount](/Programming%20Basics/Exercises/images/25.PNG)
+> ![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/25.PNG)
 >  
 > - Накрая проверете цената. Ако все още е **-1** , значи даденият плод или денят от седмицата е **невалиден**. За да отпечатате точно **2 цифри след десетичната точка** (със закръгляне), използвайте форматиращ низ &quot; **{0:f2}** &quot;. Кодът може да е подобен на следния:
 > 
-> ![Not fount](/Programming%20Basics/Exercises/images/26.PNG)
+> ![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/26.PNG)
 
 ## 8.Търговски комисионни
 
@@ -250,7 +250,7 @@
 > - Първоначално задайте **комисионна -1**. Тя ще бъде променена, ако градът и ценовият диапазон бъдат намерени в таблицата с комисионните.
 > - Използвайте вложени **if** проверки, за **да изчислите комисионната** според града и според обема на продажбите. Може да си помогнете с кода по-долу:
 > 
-> ![Not fount](/Programming%20Basics/Exercises/images/27.PNG)
+> ![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/27.PNG)
 > 
 > - Накрая проверете комисионната. Ако все още е **-1** , значи въведеният град или обем продажби не се срещат в таблицата с комисионните и трябва да се отпечата &quot; **error**&quot;. В противен случай трябва да се изчисли комисионната (процент комисионна по обем на продажбите) и да се отпечата със закръгляне с точно **2 цифри след десетичната точка**. Може да използвате **Console.WriteLine(&quot;{0:f2}&quot;,…)**.
 
@@ -349,7 +349,7 @@ Write a program to print animal type by its name:
 
 **Фигура** се състои от **6 блокчета**** с размер ****h \* h** , разположени като на фигурата вдясно. Долният ляв ъгъл на сградата е на позиция {0, 0}. Горният десен ъгъл на фигурата е на позиция { **2\*h** , **4\*h** }. На фигурата координатите са дадени при **h = 2**.
 
-![Not fount](/Programming%20Basics/Exercises/images/28.PNG)
+![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/28.PNG)
 
 Напишете програма, която въвежда цяло число **h** и координатите на дадена **точка** { **x** , **y** } (цели числа) и отпечатва дали точката е вътре във фигурата ( **inside** ), вън от фигурата ( **outside** ) или на някоя от стените на фигурата ( **border** ).
 
@@ -363,7 +363,7 @@ Write a program to print animal type by its name:
 |2 <br/> 6 <br/> 0|border|
 |2 <br/> 0 <br/> 6|outside|
 
-![Not fount](/Programming%20Basics/Exercises/images/29.PNG)
+![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/29.PNG)
 
 | **вход** | **изход** | 
 | --- | --- | 
@@ -373,7 +373,7 @@ Write a program to print animal type by its name:
 |15 <br/> -4 <br/> 7|outside|
 |15 <br/> 30 <br/> 0|border|
 
-![Not fount](/Programming%20Basics/Exercises/images/30.PNG)
+![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/30.PNG)
 
 **Тествайте** решението си в **judge**  **системата** : [https://judge.softuni.bg/Contests/Practice/Index/153#10](https://judge.softuni.bg/Contests/Practice/Index/153#10).
 

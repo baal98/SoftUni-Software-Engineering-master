@@ -6,7 +6,7 @@
 
 1. Създайте празно решение ( **Blank Solution**) във Visual Studio за да организирате кода от задачите за упражнение. Целта на този**blank solution **e да съдържа** по един проект за **всяка задача** от упражненията.
 
-![Not fount](/Programming%20Basics/Exercises/images/31.PNG)
+![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/31.PNG)
 
 2. Задайте **да се стартира по подразбиране текущия проект** (не първият в решението). Кликнете с десен бутон на мишката върху **Solution &#39;Draw-with-Loops&#39; [Set StartUp Projects…][Current selection]**.
 
@@ -24,11 +24,11 @@
 > 1. Създайте **нов проект** в съществуващото Visual Studio решение – конзолна C# програма. Задайте подходящо име на проекта, например &quot; **Rectangle-of-10x10-Stars**&quot;.
 > 2. Отидете в тялото на метода **Main(string[]args)** и напишете решението на задачата. Можете да си помогнете с кода от картинката по-долу:
 > 
-> ![Not fount](/Programming%20Basics/Exercises/images/32.PNG)
+> ![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/32.PNG)
 > 
 > 3. **Стартирайте** програмата с [Ctrl+F5] и я **тествайте** :
 > 
-> ![Not fount](/Programming%20Basics/Exercises/images/33.PNG)
+> ![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/33.PNG)
 > 
 > 4. **Тествайте** решението си в **judge**  **системата** : [https://judge.softuni.bg/Contests/Practice/Index/155#0](https://judge.softuni.bg/Contests/Practice/Index/155#0). Трябва да получите **100 точки** (напълно коректно решение).
 
@@ -55,7 +55,7 @@
 **Тествайте** решението си в **judge**  **системата** : [https://judge.softuni.bg/Contests/Practice/Index/155#](https://judge.softuni.bg/Contests/Practice/Index/155#2) [2](https://judge.softuni.bg/Contests/Practice/Index/155#2).
 
 > **Подсказка** :завъртете два вложени цикъла. Може да си помогнете с кода по-долу (част от кода е нарочно замъглен, за да не преписвате механично, а да се замислите малко):
-> ![Not fount](/Programming%20Basics/Exercises/images/34.PNG)
+> ![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/34.PNG)
 
 ## 4.Триъгълник от долари
 

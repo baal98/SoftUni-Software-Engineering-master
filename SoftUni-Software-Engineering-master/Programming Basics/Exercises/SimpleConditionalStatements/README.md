@@ -9,11 +9,11 @@
 1. Стартирайте Visual Studio.
 2. Създайте нов **Blank Solution** : [File] [New] [Project].
 
-![Not fount](/Programming%20Basics/Exercises/images/4.PNG)
+![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/4.PNG)
  
 3. Изберете от диалоговия прозорец [Templates] [Other Project Types] [Visual Studio Solutions] [**Blank Solution**]и дайте подходящо име на проекта, например &quot; **Simple-Conditions**&quot;:
 
-![Not fount](/Programming%20Basics/Exercises/images/75.PNG)
+![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/75.PNG)
 
 Сега имате създаден **празен**  **Visual Studio Solution** (без проекти в него):
 Целта на този **blank solution** e да добавяте в него **по един проект за** **всяка задача** от упражненията.
@@ -29,21 +29,21 @@
 
 1. Създайте **нов проект** в съществуващото Visual Studio решение. В Solution Explorer кликнете с десен бутон на мишката върху **Solution**  **&#39;** **Simple-Conditions &#39;**. Изберете [Add] [New Project…]:
 
-![Not fount](/Programming%20Basics/Exercises/images/7.PNG)
+![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/7.PNG)
 
 2. Ще се отвори диалогов прозорец за избор на тип проект за създаване. Изберете C# конзолно приложениеи задайте име &quot; **Excellent-Result**&quot;:
 
-![Not fount](/Programming%20Basics/Exercises/images/76.PNG)
+![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/76.PNG)
 
 Вече имате solution с едно конзолно приложение в него. Остава да напишете кода за решаване на задачата.
 
 3. Отидете в тялото на метода **Main(string[]args)** и напишете решението на задачата. Можете да си помогнете с кода от картинката по-долу:
 
-![Not fount](/Programming%20Basics/Exercises/images/77.PNG)
+![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/77.PNG)
 
 4. **Стартирайте** програмата с [Ctrl+F5] и я **тествайте** с различни входни стойности:
 
-![Not fount](/Programming%20Basics/Exercises/images/78.PNG)
+![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/78.PNG)
 
 5. **Тествайте** решението си в **judge**  **системата** : [https://judge.softuni.bg/Contests/Practice/Index/152#0](https://judge.softuni.bg/Contests/Practice/Index/152#0). Трябва да получите **100 точки** (напълно коректно решение):
 
@@ -61,11 +61,11 @@
   - Изберете [Visual C#] [Windows] [**Console Application**] и задайте име &quot; **Excellent-or-Not**&quot;.
 2. **Напишете кода** на програмата. Може да си помогнете с примерния код от картинката:
 
-![Not fount](/Programming%20Basics/Exercises/images/79.PNG)
+![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/79.PNG)
 
 3. Включете режим на **автоматично превключване към текущия проект** като кликнете върху главния solution с десния бутон на мишката и изберете **[Set StartUp Projects…]**:
 
-![Not fount](/Programming%20Basics/Exercises/images/56.PNG)
+![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/56.PNG)
 
 Ще се появи диалогов прозорец, от който трябва да се избере **[Startup Project]** => [**Current selection**]:
 
@@ -73,7 +73,7 @@
 
 4. Сега **стартирайте програмата** , както обикновено с [Ctrl+F5] и я тествайте:
 
-![Not fount](/Programming%20Basics/Exercises/images/80.PNG)
+![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/80.PNG)
 
 5. Тествайте в **judge**  **системата** : [https://judge.softuni.bg/Contests/Practice/Index/151#1](https://judge.softuni.bg/Contests/Practice/Index/151#1). Решението би трябвало да бъде прието като напълно коректно.
 
@@ -90,7 +90,7 @@
 2. **Напишете кода** на програмата. Проверката за четност може да се реализира чрез проверка на **остатъка при деление на 2** по следния начин: **var even = (num % 2 == 0)**.
 3. **Стартирайте** програмата с **[Ctrl+F5]** и я тествайте:
 
-![Not fount](/Programming%20Basics/Exercises/images/81.PNG)
+![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/81.PNG)
 
 4. Тествайте в **judge**  **системата** : [https://judge.softuni.bg/Contests/Practice/Index/151#2](https://judge.softuni.bg/Contests/Practice/Index/151#2).
 
@@ -107,13 +107,13 @@
 2. **Напишете кода** на програмата. Необходима е единична **if** - **else** конструкция.
 3. **Стартирайте** програмата с **[Ctrl+F5]** и я тествайте:
 
-![Not fount](/Programming%20Basics/Exercises/images/82.PNG)
+![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/82.PNG)
 
 4. Тествайте решението си в **judge**  **системата** : [https://judge.softuni.bg/Contests/Practice/Index/151#3](https://judge.softuni.bg/Contests/Practice/Index/151#3).
 
 > **Подсказка** : може да си помогнете частично с кода от картинката, който е нарочно замъглен, за да помислите как да си го напишете сами:
 
-![Not fount](/Programming%20Basics/Exercises/images/83.PNG)
+![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/83.PNG)
 
 ## 5.Изписване на число до 10 с думи
 
@@ -148,7 +148,7 @@
 
 Ето как би могло да изглежда решението на задачата в действие:
 
-![Not fount](/Programming%20Basics/Exercises/images/84.PNG)
+![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/84.PNG)
 
 Тествайте решението си в **judge**  **системата** : [https://judge.softuni.bg/Contests/Practice/Index/151#5](https://judge.softuni.bg/Contests/Practice/Index/151#5).
 

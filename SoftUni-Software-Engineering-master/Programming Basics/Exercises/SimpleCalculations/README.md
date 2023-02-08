@@ -11,11 +11,11 @@
 1. Стартирайте Visual Studio.
 2. Създайте нов **Blank Solution** : [File] [New] [Project].
 
-![Not fount](/Programming%20Basics/Exercises/images/35.PNG)
+![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/35.PNG)
 
 3. Изберете от диалоговия прозорец [Templates] [Other Project Types] [Visual Studio Solutions] [**Blank Solution**]и дайте подходящо име на проекта, например &quot; **Simple-Calculations**&quot;:
 
-![Not fount](/Programming%20Basics/Exercises/images/47.PNG)
+![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/47.PNG)
 
 Сега имате създаден **празен**  **Visual Studio Solution** (с 0 проекта в него):
 
@@ -27,21 +27,21 @@
 
 1. Създайте **нов проект** в съществуващото Visual Studio решение. В Solution Explorer кликнете с десен бутон на мишката върху **Solution**  **&#39;** **Simple-Calculations &#39;**. Изберете [Add] [New Project…]:
 
-![Not fount](/Programming%20Basics/Exercises/images/7.PNG)
+![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/7.PNG)
  
 2. Ще се отвори диалогов прозорец за избор на тип проект за създаване. Изберете C# конзолно приложениес име &quot; **Square-Area**&quot;:
 
-![Not fount](/Programming%20Basics/Exercises/images/48.PNG)
+![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/48.PNG)
  
 Вече имате solution с едно конзолно приложение в него. Остава да напишете кода за решаване на задачата.
 
 3. Отидете в тялото на метода **Main(string[] args)** и напишете кода от картинката по-долу:
 
-![Not fount](/Programming%20Basics/Exercises/images/49.PNG)
+![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/49.PNG)
  
 4. Кодът въвежда цяло число с **a  = int.Parse(Console.ReadLine())**, след това изчислява **area** = ****a**** \ **a** и накрая печата стойността напроменливата **area**.
 
-![Not fount](/Programming%20Basics/Exercises/images/50.PNG)
+![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/50.PNG)
 
 5. **Тествайте** решението си в **judge**  **системата** : [https://judge.softuni.bg/Contests/Practice/Index/151#0](https://judge.softuni.bg/Contests/Practice/Index/151#0). Трябва да получите 100 точки (напълно коректно решение):
 
@@ -51,11 +51,11 @@
 
 1. Първо създайте **нов**  **C#**  **конзолен проект** в решението &quot; **Simple-Calculations**&quot;. Кликнете с мишката върху решението в Solution Explorer и изберете [Add] [New Project…]:
 
-![Not fount](/Programming%20Basics/Exercises/images/51.PNG)
+![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/51.PNG)
  
 Изберете [Visual C#] -> [Windows] -> [Console Application] и задайте име &quot; **Inches-to-Centimeters**&quot;:
 
-![Not fount](/Programming%20Basics/Exercises/images/52.PNG)
+![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/52.PNG)
  
 2. **Напишете кода** на програмата. Може да си помогнете с примерния код от картинката:
 
@@ -63,29 +63,29 @@
  
 3. **Стартирайте програмата** , както обикновено с [Ctrl+F5]:
 
-![Not fount](/Programming%20Basics/Exercises/images/54.PNG)
+![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/54.PNG)
 
 Изненада! Како става? Програмата не работи правилно… Всъщност това не е ли предходната програма?
 
 Във Visual Studio **текущият активен проект** в един solution е маркиран в получерно и може да се сменя:
 
-![Not fount](/Programming%20Basics/Exercises/images/55.PNG)
+![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/55.PNG)
  
 4. За да включите режим на **автоматично преминаване към текущия проект** , кликнете върху главния solution с десния бутон на мишката и изберете **[Set StartUp Projects…]**:
 
-![Not fount](/Programming%20Basics/Exercises/images/56.PNG)
+![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/56.PNG)
 
 Ще се появи диалогов прозорец, от който трябва да се избере **[Startup Project]** ->  [**Current selection**]:
 
-![Not fount](/Programming%20Basics/Exercises/images/57.PNG)
+![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/57.PNG)
 
 5. Сега отново **стартирайте програмата** , както обикновено с [Ctrl+F5]. Този път ще се стартира текущата отворена програма, която преобразува инчове в сантиметри. Изглежда работи коректно:
 
-![Not fount](/Programming%20Basics/Exercises/images/58.PNG)
+![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/58.PNG)
 
 6. Сега **превключете към преходната програма** (лице на квадрат). Това става с двоен клик на мишката върху файла **Program.cs** от предходния проект &quot; **Square-Area**&quot; в панела [Solution Explorer] на Visual Studio:
 
-![Not fount](/Programming%20Basics/Exercises/images/59.PNG)
+![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/59.PNG)
  
 7. Натиснете пак **[Ctrl+F5]**. Този път трябва да се стартира другият проект:
 
@@ -93,25 +93,25 @@
  
 8. Превключете обратно към проекта &quot; **Inches-to-Centimeters**&quot; и го стартирайте с **[Ctrl+F5]**:
 
-![Not fount](/Programming%20Basics/Exercises/images/61.PNG)
+![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/61.PNG)
  
 **Превключването между проектите** е много лесно, нали? Просто избираме файла със сорс кода на програмата, кликваме го два пъти с мишката и при стартиране тръгва програмата от този файл.
 
 9. Тествайте с **дробни числа** , например с **2.5** :
 
-![Not fount](/Programming%20Basics/Exercises/images/62.PNG)
+![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/62.PNG)
  
 **Внимание:** в зависимост от регионалните настройки на операционната система, е възможно вместо **десетична точка** (US настройки)да се използва **десетична запетая** (BG настройки).Ако програмата очаква десетична точка и бъде въведено число с десетична запетая или на обратно (бъде въведена десетична точка когато се очаква десетична запетая), ще се получи следната грешка:
 
-![Not fount](/Programming%20Basics/Exercises/images/63.PNG)
+![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/63.PNG)
  
 Препоръчително е **да промените настройките на компютъра си** , така че да се използва **десетична точка** :
 
-![Not fount](/Programming%20Basics/Exercises/images/64.PNG)
+![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/64.PNG)
 
 10. Вече е време за **тестване в**  **judge**  **системата** : [https://judge.softuni.bg/Contests/Practice/Index/151#1](https://judge.softuni.bg/Contests/Practice/Index/151#1). Решението би трябвало да бъде прието като напълно коректно:
 
-![Not fount](/Programming%20Basics/Exercises/images/65.PNG)
+![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/65.PNG)
  
 ## 3.Поздрав по име
 
@@ -119,15 +119,15 @@
 
 1. Първо създайте **нов**  **C#**  **конзолен проект** с име &quot; **Greeting**&quot; в решението &quot; **Simple-Calculations**&quot;:
 
-![Not fount](/Programming%20Basics/Exercises/images/66.PNG)
+![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/66.PNG)
 
 2. **Напишете кода** на програмата. Ако се затруднявате, може да ползвате примерния код по-долу:
 
-![Not fount](/Programming%20Basics/Exercises/images/67.PNG)
+![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/67.PNG)
  
 3. **Стартирайте** програмата с **[Ctrl+F5]**и я тествайте:
 
-![Not fount](/Programming%20Basics/Exercises/images/68.PNG)
+![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/68.PNG)
  
 4. Тествайте в **judge**  **системата** : [https://judge.softuni.bg/Contests/Practice/Index/151#2](https://judge.softuni.bg/Contests/Practice/Index/151#2). Преди да пратите решението сложете коментар на първия ред, който печата &quot;Enter your name&quot;.
 
@@ -138,11 +138,11 @@
 1. Добавете към текущото Visual Studio решение още един **конзолен**  **C#**  **проект** с име &quot; **Concatenate-Data**&quot;.
 2. **Напишете кода** , който чете входните данни от конзолата:
 
-![Not fount](/Programming%20Basics/Exercises/images/69.PNG)
+![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/69.PNG)
 
 3. **Допишете код** , който отпечатва описаното в условието на задачата съобщение.
 
-![Not fount](/Programming%20Basics/Exercises/images/70.PNG)
+![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/70.PNG)
 
 На горната картинка кодът е нарочно даден размазан, за да помислите как да си го напишете сами.
 
@@ -155,12 +155,12 @@
 
 На фигурата по-долу е показан трапец със страни 8 и 13 и височина 7. Той има лице (8 + 13) \* 7 / 2 = 73.5.
 
-![Not fount](/Programming%20Basics/Exercises/images/71.PNG)
+![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/71.PNG)
 
 1. Добавете към текущото Visual Studio решение още един **конзолен**  **C#**  **проект** с име &quot; **Trapezoid-Area**&quot;.
 2. **Напишете кода** , който чете входните данни от конзолата, пресмята лицето на трапеца и го отпечатва:
 
-![Not fount](/Programming%20Basics/Exercises/images/72.PNG)
+![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/72.PNG)
 
 Кодът на картинката е нарочно размазан, за да си го доизмислите и допишете сами.
 
@@ -178,7 +178,7 @@
 
 За изчисленията можете да използвате следните формули:
 
-![Not fount](/Programming%20Basics/Exercises/images/73.PNG)
+![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/73.PNG)
 
 Тествайте решението си в **judge**  **системата** : [https://judge.softuni.bg/Contests/Practice/Index/151#5](https://judge.softuni.bg/Contests/Practice/Index/151#5).
 
@@ -186,7 +186,7 @@
 
 **Правоъгълник** е зададен с **координатите** на два от своите срещуположни ъгъла ( **x1** , **y1** ) – ( **x2** , **y2** ). Да се пресметнат **площта** и **периметъра** му. **Входът** се чете от конзолата. Числата **x1** , **y1** , **x2** и **y2** са дадени по едно наред. **Изходът** се извежда на конзолата и трябва да съдържа два реда с по една число на всеки от тях – лицето и периметъра.
 
-![Not fount](/Programming%20Basics/Exercises/images/74.PNG)
+![Not fount](/SoftUni-Software-Engineering-master/Programming%20Basics/Exercises/images/74.PNG)
 
 | **вход** | **изход** |
 | --- | --- |
